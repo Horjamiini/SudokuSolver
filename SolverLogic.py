@@ -2,6 +2,24 @@
 
 
 sudoku_listlist = [[2,33,66],[5,33,133],[6,33,33],[9,33,33],[7,66,233],[1,166,266],[4,200,166],[5,200,133]]
+list_c1 = []
+list_c2 = []
+list_c3 = []
+list_c4 = []
+list_c5 = []
+list_c6 = []
+list_c7 = []
+list_c8 = []
+list_c9 = []
+list_r1 = []
+list_r2 = []
+list_r3 = []
+list_r4 = []
+list_r5 = []
+list_r6 = []
+list_r7 = []
+list_r8 = []
+list_r9 = []
 def CreateColumnLists(list):
     for i in list:
         match i[1]:
